@@ -1,0 +1,2 @@
+include ':AndroidAudioConverter'
+rootProject.name = 'flutter_plugin_record'
